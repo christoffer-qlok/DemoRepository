@@ -1,3 +1,3 @@
 # DemoRepository
 
-Det här är ett fantastiskt demo!
+Det här är ett ok demo!
